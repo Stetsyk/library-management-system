@@ -355,7 +355,7 @@ class LibraryManagement {
       cout << "1. Admin." << endl;
       cout << "2. User." << endl;
       cout << "0. Exit." << endl;
-      cout << "Enter Choice: ";
+      cout << "Enter your choice: ";
       cin >> option;
 
       switch (option) {
