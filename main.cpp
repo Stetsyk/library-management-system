@@ -352,8 +352,7 @@ class LibraryManagement {
     while (working) {
       int option;
       cout << "Welcome To Library Management System" << endl;
-      cout << "************************************" << endl;
-      cout << "1. Administration." << endl;
+      cout << "1. Admin." << endl;
       cout << "2. User." << endl;
       cout << "0. Exit." << endl;
       cout << "Enter Choice: ";
